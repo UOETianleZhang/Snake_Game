@@ -6,3 +6,5 @@ If any button is pressed, the procedure will go to "play" state, i.e., the first
 If you get the aim score (20 here), the procedure will go to "win" state, with the second level: "Break the Bricks" game starting. In this game, you will control a board by buttons to protect the bottom line from hitting. The ball will reflect when encountering walls and the front of the board.
 
 Take it easy, there is no any punishment at this procedure, please have fun! :)
+
+**More details can be found in "Snake Game User's Manual.pdf"**
